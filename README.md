@@ -1,8 +1,8 @@
-# Diamond Selection App
+# KGK Diamonds Filtering App
 
 ## Overview
 
-The **Diamond Selection App** is a Flutter-based application that allows users to filter, sort, and select diamonds based on various criteria. The app utilizes **BLoC for state management**, **sqflite for persistent storage**, and provides a smooth user experience with a well-structured UI.
+The **KGK Diamonds Filtering App** is a Flutter-based application that allows users to filter, sort, and select diamonds based on various criteria. The app utilizes **BLoC for state management**, **sqflite for persistent storage**, and provides a smooth user experience with a well-structured UI.
 
 ## Features
 
@@ -55,21 +55,17 @@ The app uses **BLoC (Business Logic Component)** to manage state efficiently:
 - The app uses **sqflite** for saving and retrieving selected diamonds in the cart.
 - `database_helper.dart` handles SQLite database operations such as inserting, retrieving, and deleting cart items.
 
-## Screenshots
+## Application Preview
 
 ### Home Screen
-
-
+![Home Screen](assets/screenshots/home_screen.png)
 
 ### Filter Page
-
-
+![Filter Page](assets/screenshots/filter_page.png)
 
 ### Result Page
+![Result Page](assets/screenshots/result_page.png)
 
-
-
-### Cart Page
 
 
 
