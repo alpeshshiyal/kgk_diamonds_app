@@ -63,8 +63,8 @@ The app uses **BLoC (Business Logic Component)** to manage state efficiently:
 ### Filter Page
 ![Filter Page](assets/screenshots/filter_page.png)
 
-### Result Page
-![Result Page](assets/screenshots/result_page.png)
+### Cart Page
+![Result Page](assets/screenshots/cart_page.png)
 
 
 
