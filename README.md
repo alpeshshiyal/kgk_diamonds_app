@@ -60,8 +60,8 @@ The app uses **BLoC (Business Logic Component)** to manage state efficiently:
 <h3>App Screenshots</h3>
 
 <p float="left">
+  <img src="assets/screenshots/home_screen.png" width="30%" />
   <img src="assets/screenshots/filter_page.png" width="30%" />
-  <img src="assets/screenshots/result_page.png" width="30%" />
   <img src="assets/screenshots/cart_page.png" width="30%" />
 </p>
 
